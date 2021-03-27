@@ -30,7 +30,7 @@ body{
     display:block;
     height:200px;
     width:200px;
-    border:5px solid #e43838;
+    border:5px solid #fff;
     object-fit: cover;
     margin:20px auto;
     transition: all 0.3s ease;
